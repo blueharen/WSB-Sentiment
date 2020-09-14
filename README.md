@@ -1,2 +1,3 @@
 # WSB-Sentiment
-website to pull WSB sentiment
+[Homepage](/photos/wsb_ind.png)
+[10 Minute View](/photos/wsb_10.png)
