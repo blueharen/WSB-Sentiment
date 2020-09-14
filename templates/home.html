@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>MONEY MAKER</title>
+<!-- <link href="styles.css" rel="stylesheet"> -->
+<link href="static/styles.css" rel="stylesheet"> 
+    <!-- CHANGE TO href="static/styles.css" when deploying on flask
+       MOVE styles.css to correct filepath (static folder) also -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+<body class="background">
+    <u1>
+    <li><a class="active" href="/">Home</a></li>
+        <li><a class="active" href="https://blueharen.github.io/sp500-picker/" target=_blank>S&P Picker</a></li>
+    </u1>
+    <div class="header-photo-text">
+        <h1 class="main-header">WSB Sentiment Indicator</h1>
+        <!-- <img src="100bill.png" alt="hunnid"> -->
+        <img src="static/100bill.png" alt="hunnid">
+    </div>
+    <div class="button-box">
+    <form action="/ten">
+        <input class="buttons" type="submit" value="10 Minute"></form>
+    <form action="/hour">    
+        <input class="buttons" type="submit" value="1 Hour"></form>
+    <form action="/six">    
+        <input class="buttons" type="submit" value="6 Hour"></form>
+    <form action="/day">    
+        <input class="buttons" type="submit" value="24 Hour"></form> 
+    </div>
+</body>
+</html>
