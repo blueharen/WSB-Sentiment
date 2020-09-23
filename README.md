@@ -6,3 +6,5 @@ Need a gamblers opinion? r/WSB has your back.
 ![10 Minute View](wsb_10.png?raw=true "10View")
 
 Sentiment data pulled from https://stocks.comment.ai/
+
+Nothing on this website is meant as investment advice, and is purely for informational purposes only.
